@@ -1,0 +1,216 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul, 
+ol {
+    list-style: none;
+}
+
+.href {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.call {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+
+.icon {
+    margin-right: 500px;
+}
+
+.fee {
+    margin-bottom: 50px;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.dom {
+    transition: 0.3s;
+}
+
+.calls {
+    width: 600px;
+    margin: 0 auto;
+    margin-bottom: 250px;
+}
+
+.dom:hover {
+    color: rgb(255, 98, 0);
+}
+
+.as {
+    margin-left: 30px;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+.nuqta {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.sall {
+    background-image: url(../img/watches.jpg);
+    background-size: 600px;
+    width: 500px;
+    height: 600px;
+    background-repeat: no-repeat;
+    margin-left: 130px;
+}
+
+.chiziq {
+    color: rgb(255, 98, 0);
+}
+
+.chiz {
+    width: 10px;
+}
+
+.typing {
+    margin: 0 10px;
+}
+
+.re {
+    display: flex;
+    align-items: center;
+    color: rgb(255, 98, 0);
+    margin-top: 10px;
+}
+
+.salom {
+    margin-bottom: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.vatch {
+    border: 0px solid rgb(255, 98, 0);
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(255, 98, 0);
+    color: white;
+    transition: 0.3s;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.acc {
+    margin-top: -223px;
+    height: 1px;
+}
+
+.vatch:hover {
+    background-color: red;
+}
+
+.assalom {
+    display: flex;
+    justify-content: space-between;
+    width: 1140px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.fea {
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+
+.text {
+    margin: 10px;
+}
+
+.pre {
+    font-size: 14px;
+}
+
+.lorem {
+    margin-bottom: 30px;
+}
+
+.der {
+    border-radius: 10px;
+}
+
+.fe {
+    font-size: 15px;
+}
+
+.control {
+    width: 1140px;
+    margin: 0 auto;
+    padding-left: 600px;
+    background-image: url(../img/runners.jpg);
+    background-repeat: no-repeat;
+    background-size: 1540px;
+    color: white;
+}
+
+.rol {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-left: 250px;
+}
+
+.asal {
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.tace {
+    font-size: 40px;
+}
+
+.keymote {
+    border-radius: 3px;
+}
+
+.der {
+    width: 300px;
+}
+
+.asa {
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+
+.assa {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.aasa {
+    border: 0px solid blue;
+    background-color: rgb(255, 98, 0);
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.aasa:hover {
+    background-color: red;
+}
+
+.f {
+    width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
